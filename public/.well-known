@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.onrender.fillybot_painel.twa",
-        "sha256_cert_fingerprints": ["12:74:15:70:9D:90:3B:F2:AA:42:2C:F6:AE:67:ED:CA:08:E1:8A:37:29:7D:A4:BA:D1:A9:8C:19:00:A2:A8:75"]
-      }
-    }]
