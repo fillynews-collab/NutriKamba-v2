@@ -1,0 +1,20 @@
+{
+  "name": "NutriKamba AI",
+  "short_name": "NutriKamba",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F97316",
+  "theme_color": "#F97316",
+  "description": "Inteligência Artificial para Saúde e Culinária em Angola.",
+  "orientation": "portrait",
+  "display_override": ["standalone", "window-controls-overlay"],
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "health", "lifestyle"]
+}
